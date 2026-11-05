@@ -1,4 +1,4 @@
-const CACHE='scouting-pwa-v19';
+const CACHE='scouting-pwa-v20';
 const ASSETS=['./','./index.html','./manifest.webmanifest','./icon.svg'];
 
 self.addEventListener('install',e=>
